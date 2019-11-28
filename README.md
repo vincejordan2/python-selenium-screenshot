@@ -24,3 +24,7 @@
  ```bash
  $ python -m image_downloader https://www.bbc.com/
  ```
+
+
+## Result
+![image](https://github.com/vincejordan2/python-selenium-screenshot/blob/master/2019-11-28-09-21-58.png)
